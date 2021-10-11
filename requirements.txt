@@ -2,3 +2,8 @@ flask
 flask-bootstrap
 flask-wtf
 flask-test
+blinker
+firebase-admin
+google-cloud-storage
+google-cloud-firestore
+flask-login
